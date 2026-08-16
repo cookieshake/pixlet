@@ -300,3 +300,44 @@ Terminus Variable is a family of bitmap fonts that supports multiple pixel sizes
 - Cap height: 20
 - Ascent: 26
 - Descent: 6
+
+### Galmuri7 / Galmuri9 / Galmuri11
+By [Lee Minseo (quiple)](https://github.com/quiple/galmuri), licensed under the [SIL Open Font License 1.1](https://github.com/quiple/galmuri/blob/main/ofl.md). The license text is included in this repository at `fonts/LICENSE-Galmuri.txt`.
+
+A family of Korean pixel fonts with full modern Hangul coverage. Each size
+ships as a single weight and covers the full Hangul syllable block plus
+Latin, punctuation, and symbols.
+
+#### Galmuri7
+- Advance: 0-12
+- Height: 10
+- Cap height: 7
+- Ascent: 9
+- Descent: 1
+
+#### Galmuri9
+- Advance: 0-12
+- Height: 12
+- Cap height: 9
+- Ascent: 11
+- Descent: 1
+
+#### Galmuri11
+- Advance: 0-15
+- Height: 16
+- Cap height: 11
+- Ascent: 14
+- Descent: 2
+
+### dalmoori-8
+By [RanolP](https://github.com/RanolP/dalmoori-font), licensed under the [Apache License 2.0](https://github.com/RanolP/dalmoori-font/blob/main/LICENSE). Attribution is included in this repository at `fonts/NOTICE-Dalmoori.txt`.
+
+An 8x8 Korean pixel font with full modern Hangul coverage. This is a
+reproducible conversion of the official Dalmoori TTF (upem=64) to an 8px
+BDF, rasterizing each glyph's outline at pixel centers.
+
+- Advance: 4-8
+- Height: 8
+- Cap height: 7
+- Ascent: 7
+- Descent: 1
