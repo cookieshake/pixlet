@@ -1,0 +1,14 @@
+Dalmoori font
+Copyright 2020 RanolP and contributors
+
+This font software is licensed under the Apache License, Version 2.0.
+The full license text is available at:
+  https://www.apache.org/licenses/LICENSE-2.0
+
+This notice applies to the following file in this directory:
+  dalmoori-8.bdf
+
+dalmoori-8.bdf is a reproducible conversion of the official Dalmoori TTF
+(upem=64) to an 8px BDF, rasterizing each glyph's outline at pixel centers.
+The source font is distributed by RanolP at:
+  https://github.com/RanolP/dalmoori-font
