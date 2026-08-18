@@ -8,7 +8,10 @@ The full license text is available at:
 This notice applies to the following file in this directory:
   dalmoori-8.bdf
 
-dalmoori-8.bdf is a reproducible conversion of the official Dalmoori TTF
-(upem=64) to an 8px BDF, rasterizing each glyph's outline at pixel centers.
+dalmoori-8.bdf is an 8px BDF conversion of the official Dalmoori glyph data.
+Native 8-row glyphs are kept as exact pixel bitmaps instead of being
+re-rasterized from the TTF, which preserves the original dot patterns.
+The eight 16-row halfwidth glyphs are reduced by sampling their pixel
+centers at the target size.
 The source font is distributed by RanolP at:
   https://github.com/RanolP/dalmoori-font
